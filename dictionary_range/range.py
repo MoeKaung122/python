@@ -1,0 +1,5 @@
+range(10)
+# print(list(range(10)))
+# print(list(range(5, 15)))
+# print(list(range(0, 30, 5)))
+# print(list(range(10, 0, -1)))
